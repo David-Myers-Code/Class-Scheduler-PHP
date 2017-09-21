@@ -1,0 +1,13 @@
+#title{
+	text-align: center;
+}
+
+td{
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px;
+}
+
+td form{
+	margin: 5px;
+}
